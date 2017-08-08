@@ -1,0 +1,5 @@
+language: objective-c
+osx_image: xcode8.3
+
+xcode_workspace: test_travis.xcodeproj
+xcode_scheme: test_travis
